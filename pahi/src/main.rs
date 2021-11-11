@@ -75,6 +75,7 @@ fn main() -> Result<()> {
         }
         Err(why) => {
             error!("runtime error: {}", why);
+            std::process::exit(1);
         }
     }
 

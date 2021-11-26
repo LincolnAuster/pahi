@@ -90,13 +90,17 @@
     "olin": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-r8valcDgcyd9LiiW5I0spUTf4TbTycya2W1eQgjt0ZE=",
-        "type": "tarball",
-        "url": "https://github.com/Xe/olin/archive/0e8c8eea725307f8f396919cbf7f965a0d67b0e0.tar.gz"
+        "lastModified": 1637957432,
+        "narHash": "sha256-x7SFfxZ/f/LOmLv8eU7xYyNWhdUIKnkC7VFhQnK0CfE=",
+        "owner": "lincolnauster",
+        "repo": "olin",
+        "rev": "382761c8d2946c65c317f5a213b1a88de1598296",
+        "type": "github"
       },
       "original": {
-        "type": "tarball",
-        "url": "https://github.com/Xe/olin/archive/0e8c8eea725307f8f396919cbf7f965a0d67b0e0.tar.gz"
+        "owner": "lincolnauster",
+        "repo": "olin",
+        "type": "github"
       }
     },
     "root": {

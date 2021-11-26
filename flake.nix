@@ -13,7 +13,7 @@
   inputs.nixpkgs-mozilla.url = "github:mozilla/nixpkgs-mozilla";
   inputs.nixpkgs-mozilla.flake = false;
 
-  inputs.olin.url = "https://github.com/Xe/olin/archive/0e8c8eea725307f8f396919cbf7f965a0d67b0e0.tar.gz";
+  inputs.olin.url = "github:lincolnauster/olin";
   inputs.olin.flake = false;
 
   outputs = { self, dhall-lang, easy-dhall-nix, naersk, nixpkgs, nixpkgs-mozilla, olin }:
